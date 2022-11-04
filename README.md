@@ -1,2 +1,1 @@
-# cv
-Silvio Clécio - CV
+# Silvio Clécio - CV
